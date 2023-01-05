@@ -1,1 +1,1 @@
-# pytho-pdf-reader
+# python-pdf-reader
